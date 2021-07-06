@@ -1,7 +1,7 @@
 # scorepochs_set
 
 This repository is based on the "scorEpochs" toolbox created by Matteo Fraschini and Matteo Demuru
-(paper ref)
+(paper: https://www.biorxiv.org/content/10.1101/2020.05.26.116434v1
 
 The purpose of this tool is to provide an automatic scoring of (resting state) MEEG epochs 
 based on the power spectrum density 

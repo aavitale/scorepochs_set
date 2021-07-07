@@ -16,5 +16,5 @@ The main improvements in the package are:
    of the outlier channels in the low and high frequencies
    ![multichanscroll](https://github.com/aavitale/scorepochs_set/blob/main/fig2_multichannel_scroll_topoplot.jpg)
    
--main function: scorEpochs_set.m
+-main function: scorEpochs_set.m  
 -folders required in the path: plot_multichan_master; freezeColors

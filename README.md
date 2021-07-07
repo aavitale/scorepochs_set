@@ -15,3 +15,5 @@ The main improvements in the package are:
 2b) **multichannel scroll and topoplot** (for a single epoch) 
    of the outlier channels in the low and high frequencies
    ![multichanscroll](https://github.com/aavitale/scorepochs_set/blob/main/fig2_multichannel_scroll_topoplot.jpg)
+   
+main function: scorespochs_set.m

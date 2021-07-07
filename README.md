@@ -7,12 +7,12 @@ The purpose of this tool is to provide an automatic scoring of (resting state) M
 based on the power spectrum density 
 
 The main improvements in the package are:
-1) INPUT:  eeg_structure in the eeglab format (**.set**) with channels location 
-2) OUTPUT:
- 
-2a) score value not only averaged across channels but also for each channel (averaged across epochs)
+1) INPUT:  
+   eeg_structure in the eeglab format (**.set**) with channels location 
+2) OUTPUT:  
+   2a) score value not only averaged across channels but also for each channel (averaged across epochs)
           ![scorepochs](https://github.com/aavitale/scorepochs_set/blob/main/fig1_scorepoch_xchannel.jpg)
-2b) **multichannel scroll and topoplot** (for a single epoch) 
+   2b) **multichannel scroll and topoplot** (for a single epoch) 
    of the outlier channels in the low and high frequencies
    ![multichanscroll](https://github.com/aavitale/scorepochs_set/blob/main/fig2_multichannel_scroll_topoplot.jpg)
    

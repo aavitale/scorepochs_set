@@ -7,7 +7,7 @@ The purpose of this tool is to provide an automatic scoring of (resting state) M
 based on the power spectrum density 
 
 The main improvements in the package are:
-1) INPUT:  eeg_structure in the eeglab format (**.set**) with also the channel information
+1) INPUT:  eeg_structure in the eeglab format (**.set**) with channels location 
 2) OUTPUT:
  
 2a) score value not only averaged across channels but also for each channel (averaged across epochs)
